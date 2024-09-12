@@ -39,6 +39,18 @@ To import database
 ```bash
 
 ```
+## Download Dcrs from here:
+https://web.archive.org/web/20220724030154/https://raw.githubusercontent.com/Quackster/Kepler/master/tools/Quackster_v14.zip
+
+To run the emulator:
+
+```bash
+  - Open game_server.py and game_client.py  with your IDE and change "127.0.0.1" to your VPS IP and Habbo Client port.
+- 
+- Now execute the game_server.py and game_client.py with python3 <game_server.py> python3 <game_client.py> 
+
+```
+
 
 
 ## How deploy Trax Emulator
