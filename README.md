@@ -2,6 +2,7 @@
 # Trax Emulator for Habbo Hotel v14
 Welcome to the Trax Emulator project! This emulator is designed to replicate the Habbo Hotel v14 version.
 Trax Emulator allows you, to create a habbo retro server from early habbo era.
+HabboTrax emulator is not for an production hotel yet.
 
 
 
