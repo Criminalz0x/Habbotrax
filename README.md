@@ -5,6 +5,8 @@ Trax Emulator allows you, to create a habbo retro server from early habbo era.
 
 
 HabboTrax emulator is not for an production hotel yet.
+HabboTrax emulator, only has the loading client function and registration.
+if you want to contribute to the project, you can do it. as usual (:
 
 
 
